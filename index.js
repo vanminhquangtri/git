@@ -1,2 +1,2 @@
-console.log("learning GIT");
-console.log("master update");
+const heading = document.querySelector(".heading");
+heading.style.color = "blue"
