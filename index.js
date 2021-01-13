@@ -1,1 +1,1 @@
-console.log("learning GIT");
+const heading = document.querySelector(".heading");
