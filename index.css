@@ -1,3 +1,15 @@
 body {
     color: initial
 }
+
+.rotater {
+    width: 100px;
+    height: 100px;
+    background: green;
+    border-radius: 20px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
